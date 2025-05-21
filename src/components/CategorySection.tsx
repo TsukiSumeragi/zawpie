@@ -2,7 +2,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Card, CardContent } from "@/components/ui/card";
-import { Makeup, Eye, Device } from "lucide-react";
+import { Paintbrush, Eye, Smartphone } from "lucide-react";
 
 type Category = {
   id: string;
@@ -19,7 +19,7 @@ const CategorySection = () => {
       id: "makeup",
       name: "Makeup",
       description: "Find the best makeup products from trusted brands.",
-      icon: <Makeup className="h-8 w-8" />,
+      icon: <Paintbrush className="h-8 w-8" />,
       path: "/makeup",
       color: "from-pink-500 to-purple-500",
     },
@@ -35,7 +35,7 @@ const CategorySection = () => {
       id: "digital",
       name: "Digital Devices",
       description: "Explore the latest tech gadgets and digital devices.",
-      icon: <Device className="h-8 w-8" />,
+      icon: <Smartphone className="h-8 w-8" />,
       path: "/digital",
       color: "from-zhopee-500 to-zhopee-300",
     },
