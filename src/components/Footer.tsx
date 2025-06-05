@@ -4,11 +4,11 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <footer className="bg-zhopee-900 text-white">
+    <footer className="bg-zawpie-900 text-white">
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4 text-gradient">ZHOPEE</h3>
+            <h3 className="text-xl font-bold mb-4 text-gradient">ZAWPIE</h3>
             <p className="text-gray-300 mb-4">
               Your trusted partner for finding the best deals on Shopee. We curate top products in makeup, eye care, and digital devices.
             </p>
@@ -32,6 +32,11 @@ const Footer = () => {
                   Digital Devices
                 </Link>
               </li>
+              <li>
+                <Link to="/outfit" className="text-gray-300 hover:text-white transition-colors">
+                  Outfit
+                </Link>
+              </li>
             </ul>
           </div>
           
@@ -39,19 +44,19 @@ const Footer = () => {
             <h4 className="font-semibold text-lg mb-4">Help & Support</h4>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-gray-300 hover:text-white transition-colors">
+                <a href="mailto:admeliorazzra@gmail.com" className="text-gray-300 hover:text-white transition-colors">
                   FAQs
                 </a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-white transition-colors">
+                <a href="mailto:admeliorazzra@gmail.com" className="text-gray-300 hover:text-white transition-colors">
                   Contact Us
                 </a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-white transition-colors">
+                <p className="text-gray-300 hover:text-white transition-colors">
                   Privacy Policy
-                </a>
+                </p>
               </li>
             </ul>
           </div>
@@ -64,16 +69,7 @@ const Footer = () => {
             <div className="flex space-x-4">
               <a 
                 href="#" 
-                className="w-10 h-10 rounded-full bg-zhopee-700 flex items-center justify-center hover:bg-zhopee-600 transition-colors"
-                aria-label="Facebook"
-              >
-                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                  <path fillRule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clipRule="evenodd"></path>
-                </svg>
-              </a>
-              <a 
-                href="#" 
-                className="w-10 h-10 rounded-full bg-zhopee-700 flex items-center justify-center hover:bg-zhopee-600 transition-colors"
+                className="w-10 h-10 rounded-full bg-zawpie-700 flex items-center justify-center hover:bg-zawpie-600 transition-colors"
                 aria-label="Instagram"
               >
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -82,7 +78,7 @@ const Footer = () => {
               </a>
               <a 
                 href="#" 
-                className="w-10 h-10 rounded-full bg-zhopee-700 flex items-center justify-center hover:bg-zhopee-600 transition-colors"
+                className="w-10 h-10 rounded-full bg-zawpie-700 flex items-center justify-center hover:bg-zawpie-600 transition-colors"
                 aria-label="Twitter"
               >
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -94,7 +90,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-10 pt-6 border-t border-gray-800 text-center text-gray-400 text-sm">
-          <p>© {new Date().getFullYear()} ZHOPEE. All rights reserved. Affiliate links to Shopee included.</p>
+          <p>© {new Date().getFullYear()} ZAWPIE. All rights reserved. Affiliate links to Shopee included.</p>
         </div>
       </div>
     </footer>

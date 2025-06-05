@@ -7,7 +7,7 @@ import { eyeProducts } from "@/data/products";
 const EyesPage = () => {
   return (
     <Layout>
-      <div className="bg-gradient-to-r from-zhopee-100 to-white py-12">
+      <div className="bg-gradient-to-r from-zawpie-100 to-white py-12">
         <div className="container mx-auto px-4">
           <h1 className="text-4xl font-bold mb-2">Eye Products</h1>
           <p className="text-gray-600 mb-6">

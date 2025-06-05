@@ -8,6 +8,7 @@ import Index from "./pages/Index";
 import MakeupPage from "./pages/MakeupPage";
 import EyesPage from "./pages/EyesPage";
 import DigitalPage from "./pages/DigitalPage";
+import OutfitPage from "./pages/OutfitPage";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -23,6 +24,7 @@ const App = () => (
           <Route path="/makeup" element={<MakeupPage />} />
           <Route path="/eyes" element={<EyesPage />} />
           <Route path="/digital" element={<DigitalPage />} />
+          <Route path="/outfit" element={<OutfitPage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

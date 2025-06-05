@@ -1,8 +1,8 @@
-
 import React from "react";
 import { Link } from "react-router-dom";
 import { Card, CardContent } from "@/components/ui/card";
 import { Paintbrush, Eye, Smartphone } from "lucide-react";
+import type { ProductProps } from "@/data/products";
 
 type Category = {
   id: string;
@@ -12,6 +12,24 @@ type Category = {
   path: string;
   color: string;
 };
+
+interface ProductGridProps {
+  products: ProductProps[];
+}
+
+export function ProductGrid({ products }: ProductGridProps) {
+  return (
+    <div className="container mx-auto px-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {products.map((product) => (
+          <Card key={product.id}>
+            {/* Card content */}
+          </Card>
+        ))}
+      </div>
+    </div>
+  );
+}
 
 const CategorySection = () => {
   const categories: Category[] = [
@@ -37,7 +55,7 @@ const CategorySection = () => {
       description: "Explore the latest tech gadgets and digital devices.",
       icon: <Smartphone className="h-8 w-8" />,
       path: "/digital",
-      color: "from-zhopee-500 to-zhopee-300",
+      color: "from-zawpie-500 to-zawpie-300",
     },
   ];
 
@@ -51,7 +69,9 @@ const CategorySection = () => {
           {categories.map((category) => (
             <Link to={category.path} key={category.id}>
               <Card className="overflow-hidden card-hover h-full">
-                <div className={`bg-gradient-to-r ${category.color} p-6 text-white flex justify-center`}>
+                <div
+                  className={`bg-gradient-to-r ${category.color} p-6 text-white flex justify-center`}
+                >
                   {category.icon}
                 </div>
                 <CardContent className="p-6">

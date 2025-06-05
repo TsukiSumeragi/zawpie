@@ -1,4 +1,3 @@
-
 import { ProductProps } from "@/components/ProductCard";
 
 export const makeupProducts: ProductProps[] = [
@@ -7,7 +6,7 @@ export const makeupProducts: ProductProps[] = [
     title: "Waterproof Liquid Foundation Long-lasting Coverage",
     price: 250000,
     discount: 15,
-    image: "https://images.unsplash.com/photo-1620804587331-effc68d47320?auto=format&fit=crop&q=80&w=300",
+    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://shopee.co.id"
   },
   {
@@ -15,14 +14,14 @@ export const makeupProducts: ProductProps[] = [
     title: "Matte Lipstick 12-Hour Wear Formula",
     price: 120000,
     discount: 10,
-    image: "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&q=80&w=300",
+    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://shopee.co.id"
   },
   {
     id: "m3",
     title: "Professional Makeup Brush Set 15pcs",
     price: 350000,
-    image: "https://images.unsplash.com/photo-1596224584069-cf98bbc5682f?auto=format&fit=crop&q=80&w=300",
+    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://shopee.co.id"
   },
   {
@@ -30,14 +29,14 @@ export const makeupProducts: ProductProps[] = [
     title: "Highlighter Palette Shimmer Glow",
     price: 180000,
     discount: 20,
-    image: "https://images.unsplash.com/photo-1631214542032-78956ab673c0?auto=format&fit=crop&q=80&w=300",
+    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://shopee.co.id"
   },
   {
     id: "m5",
     title: "HD Finishing Powder Translucent",
     price: 200000,
-    image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&q=80&w=300",
+    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://shopee.co.id"
   },
   {
@@ -45,7 +44,39 @@ export const makeupProducts: ProductProps[] = [
     title: "Long-lasting Brow Pomade Waterproof",
     price: 150000,
     discount: 5,
-    image: "https://images.unsplash.com/photo-1625093742435-6fa192b6b751?auto=format&fit=crop&q=80&w=300",
+    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "m7",
+    title: "BB Cream Natural Coverage",
+    price: 180000,
+    discount: 15,
+    image: "/images/makeup/bb-cream.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "m8",
+    title: "Mascara Waterproof Volume",
+    price: 150000,
+    discount: 10,
+    image: "/images/makeup/mascara.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "m9",
+    title: "Blush On Peach Glow",
+    price: 135000,
+    discount: 12,
+    image: "/images/makeup/blush.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "m10",
+    title: "Compact Powder Matte Finish",
+    price: 165000,
+    discount: 8,
+    image: "/images/makeup/powder.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://shopee.co.id"
   }
 ];
@@ -53,50 +84,189 @@ export const makeupProducts: ProductProps[] = [
 export const eyeProducts: ProductProps[] = [
   {
     id: "e1",
-    title: "Waterproof Mascara Volume & Length",
-    price: 180000,
-    discount: 15,
-    image: "https://images.unsplash.com/photo-1631214540553-ff044a3ff1d4?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    title: "Magister Softlens Mata Normal Softlens Cosplay Karakter",
+    price: 80000,
+    discount: 75,
+    image: "/image/eyes/1.1.jpg?auto=format&fit=crop&q=80&w=500",
+    affiliateLink: "https://s.shopee.co.id/1Vg0jqZBcT"
   },
   {
     id: "e2",
-    title: "Eyeshadow Palette 16 Colors Matte & Shimmer",
-    price: 220000,
-    discount: 10,
-    image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    title: "Cairan Softlens X2 60 ML ",
+    price: 9950,
+    discount: 24,
+    image: "/image/eyes/1.2.jpg?auto=format&fit=crop&q=80&w=500",
+    affiliateLink: "https://s.shopee.co.id/2LF7jJGAVK"
   },
   {
     id: "e3",
-    title: "Precision Liquid Eyeliner Waterproof",
-    price: 120000,
-    image: "https://images.unsplash.com/photo-1631214529042-26b191bd5403?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    title: "BUY 1 FREE 3 ITEM SOFTLENS STORY FRENCH GREY MADE IN KOREA",
+    price: 129000,
+    discount: 23,
+    image: "/image/eyes/1.3.jpg?auto=format&fit=crop&q=80&w=500",
+    affiliateLink: "https://s.shopee.co.idfkDF5dSYL"
   },
   {
     id: "e4",
-    title: "False Eyelashes 3D Natural Look 5 Pairs",
-    price: 150000,
-    discount: 20,
-    image: "https://images.unsplash.com/photo-1607008829749-c48fdae04ccd?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    title: "Magister Softlens cosplay manga anime Naruto halloween Lensa Kontak DIA 14.5MM Softlens Putih Hitam",
+    price: 72000,
+    discount: 55,
+    image: "/image/eyes/1.4.jpg?auto=format&fit=crop&q=80&w=500",
+    affiliateLink: "https://s.shopee.co.id/7AKNU8qWa9"
   },
   {
     id: "e5",
-    title: "Eye Concealer Anti-aging Formula",
-    price: 160000,
-    image: "https://images.unsplash.com/photo-1599733692142-8d69d8687ade?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    title: "Mysticeyes Softlens normal kontak lensa Dawn Brown 14.5 mm",
+    price: 59000,
+    discount: 67,
+    image: "/image/eyes/1.5.jpg?auto=format&fit=crop&q=80&w=500",
+    affiliateLink: "https://s.shopee.co.id/3fkVJgLuaQ"
   },
   {
     id: "e6",
-    title: "Cooling Eye Gel Pads 30 pairs",
-    price: 90000,
-    discount: 5,
-    image: "https://images.unsplash.com/photo-1570554886111-e80fcca6a029?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
-  }
+    title: "SUPER BUNDLE SOFTLENS STORY BELI 1 DAPAT 5 ITEM",
+    price: 187000,
+    discount: 20,
+    image: "/image/eyes/1.6.jpg?auto=format&fit=crop&q=80&w=500",
+    affiliateLink: "https://s.shopee.co.id/9zeYriYHwg"
+  },
+  {
+    id: "e7",
+    title: "BUY 1 GET 1 IDENTITY WITH BIOMOIST SOFTLENS WARNA HARIAN  DAILY LENS",
+    price: 460000,
+    discount: 20,
+    image: "/image/eyes/1.7.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/4L0C6rlKNA"
+  },
+  {
+    id: "e8",
+    title: "SOFTLENS - MINI BOM Normal s/d -8.00",
+    price: 50000,
+    discount: 39,
+    image: "/image/eyes/1.8.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/BAd9AbbDp"
+  },
+  {
+    id: "e9",
+    title: "[-1.00~-6.50] FreshKon Softlens Minus 14.2mm Bening Water 58%",
+    price: 50000,
+    discount: 28,
+    image: "/image/eyes/1.9.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/40NLiC5oMN"
+  },
+  {
+    id: "e10",
+    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
+    price: 50000,
+    discount: 55,
+    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/10jk8ezYWZ"
+  },
+  {
+    price: 185000,
+    discount: 15,    
+    id: "e11",
+    title: "MYSTICEYES SOFTLENS BEESWAX SUPERNATURAL SERI 14MM- 14.5MM (NORMAL)",
+
+    image: "/image/eyes/1.11.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/6V4ggkSRQB"
+  },
+  {
+    id: "e12",
+    title: "FASH121 Softlens Case Bening ",
+    price: 10000,
+    discount: 54,    
+    image: "/image/eyes/1.12.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/BAd95HHDq"
+  },
+  {
+    id: "e13",
+    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
+    price: 195000,
+    discount: 10,
+    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/9A5RbfV4i"
+  },
+    {
+    id: "e14",
+    title: "SOFTLENS - MINI BOM Normal s/d -8.00",
+    price: 50000,
+    discount: 39,
+    image: "/image/eyes/1.8.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/4L0C6fppb8"
+  },
+  {
+    id: "e15",
+    title: "[-1.00~-6.50] FreshKon Softlens Minus 14.2mm Bening Water 58%",
+    price: 185000,
+    discount: 15,
+    image: "/image/eyes/1.9.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/40NLiC5oMN"
+  },
+  {
+    id: "e16",
+    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
+    price: 195000,
+    discount: 10,
+    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/g6tPK5kVM"
+  },  
+  {
+    id: "e17",
+    title: "SOFTLENS - MINI BOM Normal s/d -8.00",
+    price: 50000,
+    discount: 39,
+    image: "/image/eyes/1.8.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/2VYWp3cgaC"
+  },
+  {
+    id: "e18",
+    title: "[-1.00~-6.50] FreshKon Softlens Minus 14.2mm Bening Water 58%",
+    price: 185000,
+    discount: 15,
+    image: "/image/eyes/1.9.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/7KXa53qs35"
+  },
+  {
+    id: "e19",
+    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
+    price: 195000,
+    discount: 10,
+    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/5AT5UzjTHA"
+  },
+    {
+    id: "e13",
+    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
+    price: 195000,
+    discount: 10,
+    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/9A5RbfV4i"
+  },
+    {
+    id: "e14",
+    title: "SOFTLENS - MINI BOM Normal s/d -8.00",
+    price: 50000,
+    discount: 39,
+    image: "/image/eyes/1.8.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/4L0C6fppb8"
+  },
+  {
+    id: "e15",
+    title: "[-1.00~-6.50] FreshKon Softlens Minus 14.2mm Bening Water 58%",
+    price: 185000,
+    discount: 15,
+    image: "/image/eyes/1.9.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/40NLiC5oMN"
+  },
+  {
+    id: "e16",
+    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
+    price: 195000,
+    discount: 10,
+    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/g6tPK5kVM"
+  },  
 ];
 
 export const digitalProducts: ProductProps[] = [
@@ -145,6 +315,119 @@ export const digitalProducts: ProductProps[] = [
     discount: 5,
     image: "https://images.unsplash.com/photo-1596742578443-7682ef7b7222?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "d7",
+    title: "Gaming Headset RGB",
+    price: 550000,
+    discount: 15,
+    image: "/images/digital/headset.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "d8",
+    title: "Mini Drone with Camera",
+    price: 850000,
+    discount: 10,
+    image: "/images/digital/drone.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "d9",
+    title: "Smart LED Strip Lights",
+    price: 225000,
+    discount: 20,
+    image: "/images/digital/led.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "d10",
+    title: "Wireless Mouse Silent Click",
+    price: 180000,
+    discount: 5,
+    image: "/images/digital/mouse.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  }
+];
+
+export const outfitProducts: ProductProps[] = [
+  {
+    id: "o1",
+    title: "Casual Summer Dress",
+    price: 299000,
+    discount: 15,
+    image: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o2",
+    title: "Denim Jacket Classic",
+    price: 450000,
+    discount: 10,
+    image: "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o3",
+    title: "High-Waist Jeans",
+    price: 380000,
+    image: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o4",
+    title: "Basic White T-Shirt",
+    price: 150000,
+    discount: 20,
+    image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o5",
+    title: "Casual Sneakers",
+    price: 499000,
+    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o6",
+    title: "Summer Hat Collection",
+    price: 120000,
+    discount: 5,
+    image: "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o7",
+    title: "Korean Style Blouse",
+    price: 225000,
+    discount: 15,
+    image: "/images/outfit/blouse.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o8",
+    title: "Pleated Mini Skirt",
+    price: 199000,
+    discount: 10,
+    image: "/images/outfit/skirt.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o9",
+    title: "Crop Top Summer Collection",
+    price: 145000,
+    discount: 20,
+    image: "/images/outfit/crop-top.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
+  },
+  {
+    id: "o10",
+    title: "High Heels Classic Black",
+    price: 399000,
+    discount: 8,
+    image: "/images/outfit/heels.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://shopee.co.id"
   }
 ];
 
@@ -152,7 +435,7 @@ export const featuredProducts: ProductProps[] = [
   makeupProducts[0],
   eyeProducts[1],
   digitalProducts[2],
-  makeupProducts[3],
+  outfitProducts[3],  
   eyeProducts[4],
   digitalProducts[5]
 ];

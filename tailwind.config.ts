@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -9,15 +8,7 @@ export default {
 		"./app/**/*.{ts,tsx}",
 		"./src/**/*.{ts,tsx}",
 	],
-	prefix: "",
 	theme: {
-		container: {
-			center: true,
-			padding: '2rem',
-			screens: {
-				'2xl': '1400px'
-			}
-		},
 		extend: {
 			colors: {
 				border: 'hsl(var(--border))',
@@ -75,6 +66,11 @@ export default {
 					700: "#543d91",
 					800: "#472f77",
 					900: "#1A1F2C",
+				},
+				zawpie: {
+					300: '#bfaeff',
+					500: '#7e69ab',
+					900: '#1A1F2C',  // tambahkan ini jika diperlukan
 				}
 			},
 			borderRadius: {
