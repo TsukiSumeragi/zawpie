@@ -3,81 +3,273 @@ import { ProductProps } from "@/components/ProductCard";
 export const makeupProducts: ProductProps[] = [
   {
     id: "m1",
-    title: "Waterproof Liquid Foundation Long-lasting Coverage",
+    title: "LIPSTIK MAYBELLINE / REVLON PINK SOFT MATTE TAHAN LAMA TERLARIS BAYAR DITEMPAT",
     price: 250000,
     discount: 15,
-    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.1.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m2",
-    title: "Matte Lipstick 12-Hour Wear Formula",
+    title: "SKINTIFIC - Perfect Stay Velvet Matte Cushion | Foundation Compact Oil-Control Waterproof Sweatproof Matte Finish",
     price: 120000,
     discount: 10,
-    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.2.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m3",
-    title: "Professional Makeup Brush Set 15pcs",
+    title: "goute Goucushion Dewy Finish Cushion with Glowing Look Long lasting up to 12H Stay Hydrated up to 48H",
     price: 350000,
-    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.3.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m4",
-    title: "Highlighter Palette Shimmer Glow",
+    title: "Instaperfect Skincover Air Cushion SPF 50++++ 11g - Make Up Cushion Foundation Semi Matte Finish",
     price: 180000,
     discount: 20,
-    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.4.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m5",
-    title: "HD Finishing Powder Translucent",
+    title: "WARDAH 10% Vitamin C + Ferulic Acid Radiant Charge Serum 20 ml",
     price: 200000,
-    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.5.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m6",
-    title: "Long-lasting Brow Pomade Waterproof",
+    title: "MAYBELLINE OFFICIAL Paket Hemat Superstay Matte Ink 2 pcs Ombre Set Lipstick",
     price: 150000,
     discount: 5,
-    image: "/images/makeup/foundation.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.6.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m7",
-    title: "BB Cream Natural Coverage",
+    title: "L'Oréal Paris Infallible Matte Resistance Liquid Lipstick",
     price: 180000,
     discount: 15,
-    image: "/images/makeup/bb-cream.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.7.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
-    id: "m8",
-    title: "Mascara Waterproof Volume",
+    id: "m8", 
+    title: "Maskara 2 Warna Waterproof Anti Air Dan Smudge Eye Make Up 3D Silk Fiber",
     price: 150000,
     discount: 10,
-    image: "/images/makeup/mascara.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.8.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m9",
-    title: "Blush On Peach Glow",
+    title: "Implora Urban Matte Lip Cream ✔️BPOM | Lip Velvet | Jelly Tint | Lip Crayon",
     price: 135000,
     discount: 12,
-    image: "/images/makeup/blush.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.9.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },
   {
     id: "m10",
-    title: "Compact Powder Matte Finish",
+    title: "The Originote High Cover Serum Cushion - Base Makeup tekstur Ringan",
     price: 165000,
     discount: 8,
-    image: "/images/makeup/powder.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://shopee.co.id"
+    image: "/image/makeup/2.10.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m11",
+    title: "Bulumata Tanpa Lem Korean Eyelashes NO GLUE Eyelash Extention",
+    price: 90000,
+    discount: 10,
+    image: "/image/makeup/2.11.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m12",
+    title: "[GRATIS 3 HADIAH] Madame Gie Plump Balm - Lip Gloss Moisturizing Long Lasting",
+    price: 220000,
+    discount: 15,
+    image: "/image/makeup/2.12.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m13",
+    title: "PINKFLASH Day & Night Maskara Lengthening Volume Tahan air Tahan lama Mascara",
+    price: 110000,
+    discount: 10,
+    image: "/image/makeup/2.13.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m14",
+    title: "Paket Ombre Lipcream OMG OH MY GLAM Matte Last Lip Cream (2 Pcs)",
+    price: 75000,
+    discount: 20,
+    image: "/image/makeup/2.14.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m15",
+    title: "[BEST SELLING] BNB barenbliss High To Volume Mascara Long Lasting Waterproof",
+    price: 45000,
+    discount: 5,
+    image: "/image/makeup/2.15.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m16",
+    title: "FOCALLURE Eyebrow Cream Gel waterproof Pensil Alis-kosmetik Mata",
+    price: 160000,
+    discount: 10,
+    image: "/image/makeup/2.16.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m17",
+    title: "SKINTIFIC - Cover All Perfect Cushion | High Coverage Concealer Primer",
+    price: 90000,
+    discount: 15,
+    image: "/image/makeup/2.17.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m18",
+    title: "[New Shades!] Wardah Colorfit Perfect Glow Cushion 15 g",
+    price: 70000,
+    discount: 10,
+    image: "/image/makeup/2.18.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m19",
+    title: "[READY STOCK!] YOU Cloud Touch Blurring Skin Tint Liquid Foundation",
+    price: 95000,
+    discount: 5,
+    image: "/image/makeup/2.19.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m20",
+    title: "PINKFLASH PinkDessert 12 Shades Eyeshadow Palette",
+    price: 60000,
+    discount: 20,
+    image: "/image/makeup/2.20.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m21",
+    title: "HANASUI MATTEDORABLE LIP CREAM BIASA",
+    price: 75000,
+    discount: 15,
+    image: "/image/makeup/2.21.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m22",
+    title: "OMG OH MY GLAM Matte Kis Lip Cream 3.5 gr",
+    price: 95000,
+    discount: 10,
+    image: "/image/makeup/2.22.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m23",
+    title: "PINKFLASH 2 IN 1 Dual-ended Liquid Lipstik ombrelips",
+    price: 90000,
+    discount: 15,
+    image: "/image/makeup/2.23.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m24",
+    title: "OMG OH MY GLAM Glassy Lip Tint 2g",
+    price: 85000,
+    discount: 10,
+    image: "/image/makeup/2.24.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m25",
+    title: "Glad2Glow Perfect Cover Cushion foundation",
+    price: 70000,
+    discount: 5,
+    image: "/image/makeup/2.25.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m26",
+    title: "4in1 Cappuvini Crayon Lipstick isi 4 Warna",
+    price: 180000,
+    discount: 10,
+    image: "/image/makeup/2.26.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m27",
+    title: "PINKFLASH Makeup Set Beauty Set Eyeshadow Eyebrow Soap",
+    price: 120000,
+    discount: 15,
+    image: "/image/makeup/2.27.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m28",
+    title: "GEGE BEAR Matte Velvet Lipstik Soft Mist Lip Glaze",
+    price: 95000,
+    discount: 10,
+    image: "/image/makeup/2.28.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m29",
+    title: "PINKFLASH Happy2Pinkflash 2 Anniversary Full Makeup Set",
+    price: 45000,
+    discount: 5,
+    image: "/image/makeup/2.29.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m30",
+    title: "ORIGINAL ZENCOLOR Urban Lip Cream Matte Moisturizer",
+    price: 120000,
+    discount: 10,
+    image: "/image/makeup/2.30.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m31",
+    title: "COD- Eyeshadow Palette Waterproof Matte Glitter Shimmer Korea",
+    price: 70000,
+    discount: 15,
+    image: "/image/makeup/2.31.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m32",
+    title: "mall inline badgePINKFLASH Happy2Pinkflash 2 Anniversary Full Makeup Set",
+    price: 300000,
+    discount: 20,
+    image: "/image/makeup/2.32.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m33",
+    title: "DIKALU DKL-055 EYESHADOW HIGHLIGHTER 20 COLORS",
+    price: 175000,
+    discount: 10,
+    image: "/image/makeup/2.33.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
+  },
+  {
+    id: "m34",
+    title: "Wardah Glasting Liquid Lip NEW",
+    price: 125000,
+    discount: 15,
+    image: "/image/makeup/2.34.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   }
 ];
 
@@ -163,8 +355,8 @@ export const eyeProducts: ProductProps[] = [
     affiliateLink: "https://s.shopee.co.id/10jk8ezYWZ"
   },
   {
-    price: 185000,
-    discount: 15,    
+    price: 50000,
+    discount: 58,    
     id: "e11",
     title: "MYSTICEYES SOFTLENS BEESWAX SUPERNATURAL SERI 14MM- 14.5MM (NORMAL)",
 
@@ -181,91 +373,99 @@ export const eyeProducts: ProductProps[] = [
   },
   {
     id: "e13",
-    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
-    price: 195000,
-    discount: 10,
-    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    title: "SOFTLENS MINI CEMORE. NORMAL MINUS s.d - 10.00. ORIGINAL DIAMETER 14.2MM",
+    price: 73000,
+    discount: 6,
+    image: "/image/eyes/1.13.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://s.shopee.co.id/9A5RbfV4i"
   },
     {
     id: "e14",
-    title: "SOFTLENS - MINI BOM Normal s/d -8.00",
-    price: 50000,
-    discount: 39,
-    image: "/image/eyes/1.8.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://s.shopee.co.id/4L0C6fppb8"
+    title: "Alat Cuci Soflens Steamer Soflen",
+    price: 8000,
+    discount: 41,
+    image: "/image/eyes/1.14.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/A9xz3PpDdQ"
   },
   {
     id: "e15",
-    title: "[-1.00~-6.50] FreshKon Softlens Minus 14.2mm Bening Water 58%",
-    price: 185000,
-    discount: 15,
-    image: "/image/eyes/1.9.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://s.shopee.co.id/40NLiC5oMN"
+    title: "MYSTICEYES SOFTLENS DAWN SERI GREY BROWN COLOR LENSA KONTAK MINUS 0.00-6.00 14.5 MM",
+    price: 100000,
+    discount: 77,
+    image: "/image/eyes/1.15.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/4L0C6fppb8"
   },
   {
     id: "e16",
-    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
-    price: 195000,
-    discount: 10,
-    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    title: "UYAAI SOFTLENS Ocean Gray LENSA Contact Lenses 14.2mm 6 Months",
+    price: 70000,
+    discount: 76,
+    image: "/image/eyes/1.16.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://s.shopee.co.id/g6tPK5kVM"
   },  
   {
     id: "e17",
-    title: "SOFTLENS - MINI BOM Normal s/d -8.00",
-    price: 50000,
-    discount: 39,
-    image: "/image/eyes/1.8.jpg?auto=format&fit=crop&q=80&w=300",
+    title: "UYAAI SOFTLENS BUBBLE Gray softlens Warna Diameter 14.5mm MINUS 0-6.00 USE 6 Month",
+    price: 70000,
+    discount: 65,
+    image: "/image/eyes/1.17.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://s.shopee.co.id/2VYWp3cgaC"
   },
   {
     id: "e18",
-    title: "[-1.00~-6.50] FreshKon Softlens Minus 14.2mm Bening Water 58%",
-    price: 185000,
-    discount: 15,
-    image: "/image/eyes/1.9.jpg?auto=format&fit=crop&q=80&w=300",
+    title: "Mysticeys Softlens Bigeyes Softlens 14.5MM-15.0MM Warna Alami Soflens Hitam Free Lens case",
+    price: 100000,
+    discount: 80,
+    image: "/image/eyes/1.18.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://s.shopee.co.id/7KXa53qs35"
   },
   {
     id: "e19",
-    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
-    price: 195000,
-    discount: 10,
-    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
+    title: "MYSTICEYES SOFTLENS COLORED LENSES Golden Hazel 14.0-14.5mm LENSA KONTAK WARNA Softlens Grey",
+    price: 60000,
+    discount: 70,
+    image: "/image/eyes/1.19.jpg?auto=format&fit=crop&q=80&w=300",
     affiliateLink: "https://s.shopee.co.id/5AT5UzjTHA"
   },
     {
-    id: "e13",
-    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
-    price: 195000,
-    discount: 10,
-    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://s.shopee.co.id/9A5RbfV4i"
+    id: "e20",
+    title: "MAGISTER TETES MATA SOFTLENS 10 ML",
+    price: 20000,
+    discount: 35,
+    image: "/image/eyes/1.20.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/4pqF6Lpole"
   },
     {
-    id: "e14",
-    title: "SOFTLENS - MINI BOM Normal s/d -8.00",
-    price: 50000,
-    discount: 39,
-    image: "/image/eyes/1.8.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://s.shopee.co.id/4L0C6fppb8"
+    id: "e21",
+    title: "Cairan Air Soflens / Air Pembersih Softlens Solution 120mL",
+    price: 20000,
+    discount: 20,
+    image: "/image/eyes/1.21.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/LNpk2lt8H"
   },
   {
-    id: "e15",
-    title: "[-1.00~-6.50] FreshKon Softlens Minus 14.2mm Bening Water 58%",
-    price: 185000,
-    discount: 15,
-    image: "/image/eyes/1.9.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://s.shopee.co.id/40NLiC5oMN"
+    id: "e22",
+    title: "DIAMOND soflens 14.5 mm Big Eyes kontak lensa normal softlense ",
+    price: 89000,
+    discount: 86,
+    image: "/image/eyes/1.22.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/509flZrKi3"
   },
   {
-    id: "e16",
-    title: "MYSTICEYES SOFTLENS SORAYAMA SERI 14MM (NORMAL)",
-    price: 195000,
-    discount: 10,
-    image: "/image/eyes/1.10.jpg?auto=format&fit=crop&q=80&w=300",
-    affiliateLink: "https://s.shopee.co.id/g6tPK5kVM"
+    id: "e23",
+    title: "Mysticeyes softlens Normal Bigeyes Black 14.5mm grey",
+    price: 59000,
+    discount: 69,
+    image: "/image/eyes/1.23.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/8A6h4KKxoZ"
+  },  
+    {
+    id: "e24",
+    title: "Minus (-1.00~-8.00) Softlens Clear Lenses Contact Lenses for Vision softlens Clear Eyes With Degree 1 Pair Myopia Lens 14.0mm",
+    price: 99000,
+    discount: 82,
+    image: "/image/eyes/1.24.jpg?auto=format&fit=crop&q=80&w=300",
+    affiliateLink: "https://s.shopee.co.id/3Ai16I5MQU"
   },  
 ];
 
